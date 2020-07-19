@@ -98,7 +98,7 @@ MonoBehaviour:
   unitLength: 0.05
   thickness: 0.01
   startingEulerAngles: {x: -60, y: 0, z: 0}
-  rotationEulerAngles: {x: 0, y: 0, z: 0}
+  rotationEulerAngles: {x: 15, y: 0, z: 0}
   spiralVelocity: {x: 0, y: 6, z: 12}
   spiralLifeSpan: 12
 --- !u!114 &467935789008960218
